@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **karoney-kn/karoney-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,10 +29,10 @@ Here are some ideas to get you started:
 </p>
  </br>
    <p>
-     A Junior Full Stack Developer:
+     A Junior Full Stack Developer:<br/>
      - passionate about crafting clean robust, functional and scalable web and android applications.<br/>
      - Skilled in both front-end and back-end technologies,<br/>
-     - with interest in Dev-Ops,Security,System and Network Administration.
+     - With interest in Dev-Ops,Security,System and Network Administration.
      
    </p>
 <br/>
