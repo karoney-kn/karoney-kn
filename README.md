@@ -189,5 +189,14 @@ Here are some ideas to get you started:
 
 </div>
 
-
+footer {<br>
+background: url(’<a href="http://i.imgur.com/f4jGhSF.png">http://i.imgur.com/f4jGhSF.png</a>') repeat center; // we can set the footer background with CSS as well<br>
+display: table; // element will behave like a table element<br>
+width: 100vw; // 100% of the viewport width<br>
+height: 8rem; // 8*16px<br>
+text-align: center; // text align<br>
+padding: 1rem; // space around elements<br>
+font-family: ‘Arial’, sans-serif; // used fonts<br>
+font-size: .875rem; // font size<br>
+}</code></pre>
 
