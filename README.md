@@ -19,7 +19,7 @@
     <ul type="square">
       <li>Passionate about crafting <b>clean robust, functional</b> and <b>scalable web </b> and <b>android</b> applications.</li>
       <li>Skilled in both <b>front-end</b> and <b>back-end</b> technologies.</li>
-      <li>With interest in <b>_Dev-Ops,Security,System_</b> and <b>Network Administration.</b></li>
+      <li>With interest in <b>Dev-Ops,Security,System</b> and <b>Network Administration.</b></li>
     </ul>
    </li>
 </ul>
