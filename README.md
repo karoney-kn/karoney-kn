@@ -24,7 +24,7 @@
 
 <p>
 
-> ### </> Skills Highlight
+> ### Skills Highlight </>
 <hr/>
 </p>
 
