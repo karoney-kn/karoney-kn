@@ -189,6 +189,13 @@ Here are some ideas to get you started:
 
 </div>
 
+<pre><code>header h1 { // selecting header and h1 tags<br>
+font-family: ‘Rubik’, sans-serif; // used fonts, if not available first one will use next one<br>
+font-size: 1.25rem; // font size 1rem = 16px =&gt; font-size=16*1.25<br>
+color: #555; // color<br>
+margin: .67rem 0; // margin around the element<br>
+}
+
 footer {<br>
 background: url(’<a href="http://i.imgur.com/f4jGhSF.png">http://i.imgur.com/f4jGhSF.png</a>') repeat center; // we can set the footer background with CSS as well<br>
 display: table; // element will behave like a table element<br>
