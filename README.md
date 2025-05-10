@@ -13,20 +13,16 @@
 > ### Hi there 👋 I'm Karoney
 
 </p>
- </br>
-   <p>
-      <ul type="None">
-         <li><b> A Junior Full Stack Developer: </b></li>
-         <li>
-           <ul type="square">
-              <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
-              <li>Skilled in both front-end and back-end technologies,</li>
-              <li>With interest in Dev-Ops,Security,System and Network Administration.</li>
-           </ul>
-          </li>
-       </ul>
-   </p>
-
+<ul type="None">
+  <li><b> A Junior Full Stack Developer: </b></li>
+  <li>
+    <ul type="square">
+      <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
+      <li>Skilled in both front-end and back-end technologies,</li>
+      <li>With interest in Dev-Ops,Security,System and Network Administration.</li>
+    </ul>
+   </li>
+</ul>
 <p>
 
 > ### Skills Highlight </>
