@@ -24,7 +24,7 @@
 
 <p>
 
-> ### Skills Highlight ![](https://emojigraph.org/man-technologist-dark-skin-tone/) 
+> ### </> Skills Highlight
 
 </p>
  </br>
