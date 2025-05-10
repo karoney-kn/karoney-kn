@@ -188,7 +188,7 @@ Here are some ideas to get you started:
 
 
 </div>
-
+<p>
 <pre><code>header h1 { // selecting header and h1 tags<br>
 font-family: ‘Rubik’, sans-serif; // used fonts, if not available first one will use next one<br>
 font-size: 1.25rem; // font size 1rem = 16px =&gt; font-size=16*1.25<br>
@@ -206,4 +206,4 @@ padding: 1rem; // space around elements<br>
 font-family: ‘Arial’, sans-serif; // used fonts<br>
 font-size: .875rem; // font size<br>
 }</code></pre>
-
+</p>
