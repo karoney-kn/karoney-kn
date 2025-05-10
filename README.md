@@ -21,11 +21,10 @@
      - With interest in Dev-Ops,Security,System and Network Administration.
      
    </p>
-<br/>
 
 <p>
 
-> ### Skills Highlight
+> ### Skills Highlight ![](https://emojigraph.org/man-technologist-dark-skin-tone/) 
 
 </p>
  </br>
