@@ -1,7 +1,7 @@
 <meta name="description" content="GitHub profile in blue color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
-<div style="display: inline_block"  align="left">
+<div style="display: inline_block;"  align="left">
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=header"/>
@@ -14,7 +14,7 @@
 
 </p>
  </br>
-   <p>
+   <p style="padding:15;">
     <b> A Junior Full Stack Developer: </b>
     <ul>
      <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
