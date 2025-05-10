@@ -25,7 +25,7 @@
 </ul>
 <p>
 
-> ### Skills Highlight </>
+> ### Skills & Achievements Highlight </>
 <hr/>
 </p>
 
