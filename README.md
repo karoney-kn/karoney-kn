@@ -10,7 +10,7 @@
 <hr/>
 <p>
 
-> ### Hi there 👋 I'm Karoney
+> ### _Hi there 👋 I'm Karoney_
 
 </p>
 <ul type="None">
@@ -25,7 +25,7 @@
 </ul>
 <p>
 
-> ### Skills & Achievements Highlight </>
+> ### _Skills & Achievements Highlight </>_
 <hr/>
 </p>
 
