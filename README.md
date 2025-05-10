@@ -15,7 +15,7 @@
 </p>
  </br>
    <p>
-    <b>   A Junior Full Stack Developer:</b>
+    <b> A Junior Full Stack Developer: </b>
     <ul>
      <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
      <li>Skilled in both front-end and back-end technologies,</li>
