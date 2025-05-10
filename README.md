@@ -27,9 +27,6 @@
 > ### </> Skills Highlight
 <hr/>
 </p>
- </br>
-
-
 
 <table width="100%" >
 
