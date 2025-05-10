@@ -15,7 +15,7 @@
 </p>
  </br>
    <p>
-      <ul>
+      <ul type="None">
          <li><b> A Junior Full Stack Developer: </b></li>
          <li>
            <ul>
