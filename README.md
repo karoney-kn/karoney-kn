@@ -16,15 +16,15 @@
  </br>
    <p>
       <ul>
-    <li></li><b> A Junior Full Stack Developer: </b></ul>
-    <li>
-    <ul>
-     <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
-     <li>Skilled in both front-end and back-end technologies,</li>
-     <li>With interest in Dev-Ops,Security,System and Network Administration.</li>
-    </ul>
-    </li>
-    </ul>
+         <li><b> A Junior Full Stack Developer: </b></li>
+         <li>
+           <ul>
+              <li>passionate about crafting clean robust, functional and scalable web and android applications.</li>
+              <li>Skilled in both front-end and back-end technologies,</li>
+              <li>With interest in Dev-Ops,Security,System and Network Administration.</li>
+           </ul>
+          </li>
+       </ul>
    </p>
 
 <p>
