@@ -14,7 +14,7 @@
 
 </p>
 <ul type="None">
-  <li><b> A Junior Full Stack Developer </b></li>
+  <li><b> A Junior Full Stack Developer :</b></li>
   <li>
     <ul type="square">
       <li>Passionate about crafting <b>clean robust, functional</b> and <b>scalable web </b> and <b>android</b> applications.</li>
