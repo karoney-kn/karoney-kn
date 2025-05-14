@@ -113,7 +113,6 @@
 [#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
 [#Spring]:        https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
-[#React]:         https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
 
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
