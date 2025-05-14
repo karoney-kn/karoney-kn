@@ -58,7 +58,6 @@
 ![Django][#Django]
 ![Spring][#Spring]
 ![Flask][#Flask]
-![React][#React]
 ![Bootstrap][#Bootstrap]
 
 
