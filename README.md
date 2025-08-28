@@ -42,9 +42,7 @@
 </p>
 
 ![Python][#Python]
-![Java][#Java] 
-![C++][#C++]
-![C][#C]
+![Golang][#Golang] 
 ![Bash][#Bash]
 ![JavaScript][#JS]
 
@@ -56,7 +54,7 @@
 </p>
 
 ![Django][#Django]
-![Spring][#Spring]
+![React][#React]
 ![Flask][#Flask]
 ![Bootstrap][#Bootstrap]
 
@@ -73,9 +71,7 @@
 > ##### *Cloud Services* &nbsp; 
 
 </p>
-
-
-![Firebase][#Firebase] 
+ 
 ![Nginx][#Nginx] 
 ![Docker][#Docker] 
 ![Kubernetes][#Kubernetes] 
@@ -99,7 +95,7 @@
 
 
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
-[#Java]:          https://img.shields.io/badge/java-%2327ff.svg?logo=openjdk&logoColor=white&color=FF8000
+[#Golang]:        https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 [#C++]:           https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [#C]:             https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white
 [#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
