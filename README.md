@@ -95,7 +95,7 @@
 
 
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
-[#Golang]:        https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[#Golang]:        https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white
 [#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
 [#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
 
