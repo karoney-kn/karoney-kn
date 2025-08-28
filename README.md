@@ -104,6 +104,7 @@
 
 
 [#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
+[#React]:       https://img.shields.io/badge/react-%234ea94b.svg?logo=react&logoColor=white
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
 
