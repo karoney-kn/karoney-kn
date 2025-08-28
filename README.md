@@ -96,8 +96,6 @@
 
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
 [#Golang]:        https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
-[#C++]:           https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white
-[#C]:             https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white
 [#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
 [#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
 
@@ -106,7 +104,6 @@
 
 
 [#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
-[#Spring]:        https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
 
@@ -117,7 +114,6 @@
 <!-- Cloud Hosting | System | Network | Administration -->
 
 
-[#Firebase]:      https://img.shields.io/badge/-firebase-F05032?logo=firebase&logoColor=black&
 [#Nginx]:         https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white
 [#Docker]:        https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white
 [#Kubernetes]:    https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white
