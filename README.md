@@ -146,10 +146,10 @@
 <p> 
 
 > ##### *Visitor Count* &nbsp; 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karoney-kn.karoney-kn)
 
 </p>
-> ##### *Visitor Count* &nbsp; 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karoney-kn.karoney-kn)
+
 </td>
    </tr>
 
