@@ -148,7 +148,8 @@
 > ##### *Visitor Count* &nbsp; 
 
 </p>
-<img src="https://profile-counter.glitch.me/{karoney-kn}/count.svg" alt="Visitor Count (01/01/20 onwards)">
+> ##### *Visitor Count* &nbsp; 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karoney-kn.karoney-kn)
 </td>
    </tr>
 
