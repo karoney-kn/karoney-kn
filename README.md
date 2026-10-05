@@ -154,9 +154,7 @@
 
 </table>
 <!-- Activity graph -->
-
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-kn&theme=&github-compact&bg_color=none&color=808080&line=32CD32&point=32CD32&area=true&area_color=32CD32&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-kn&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
